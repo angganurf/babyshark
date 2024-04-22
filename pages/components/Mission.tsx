@@ -2,7 +2,7 @@ import React from "react";
 
 const Mission = () => {
   const MissionCopy =
-    "Sharks evolve the Web3 ecosystem by building a community that collects Nouns, helping steer and grow the NounsDAO ecosystem, and partnering with artists, developers, and DAOs to create new blockchain experiences.";
+    "Unlike traditional projects where the roadmap is set in stone by a select few, Injective Baby Shark puts the power in the hands of its holders. Our roadmap is not a static document but a dynamic journey shaped by the collective wisdom and vision of our community. From new features to partnerships and beyond, the direction of Injective Baby Shark is decided by you, the holders.";
 
   return (
     <div>

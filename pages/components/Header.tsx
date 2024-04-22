@@ -4,8 +4,8 @@ import Head from "next/head";
 const Header = () => {
   return (
     <Head>
-      <title>SharkDAO</title>
-      <meta name="SharkDAO" content="SharkDAO.Community" />
+      <title>Inj Baby Shark</title>
+      <meta name="Inj Baby Shark" content="Inj.BabyShark" />
       {/* favicon */}
       <link rel="icon" href="/shark-fav-black.ico" />
     </Head>
