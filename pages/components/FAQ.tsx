@@ -14,27 +14,65 @@ const FAQ = () => {
           <h3 className="pb-3">What are Baby Shark?</h3>
           <p className="xs:text-xl sm:text-2xl font-shark-text answer">
             <a
-              href="https://nouns.wtf/"
+              href="https://twitter.com/injbabyshark"
               className="text-shark-blue hover:underline"
               target="_blank"
               rel="noreferrer"
             >
-              Baby Shark
+              🦈 Baby Shark
             </a>{" "}
-              is a community-driven collectibles NFT project. The road map for Baby Shark is collaborative and will be decided by Baby Shark holders, Launch in Injective Chain.
+            is a community-driven collectibles NFT project. The road map for
+            Baby Shark is collaborative and will be decided by Baby Shark
+            holders, Launch in Injective Chain.
+          </p>
+        </div>
+
+        <div className="mb-10">
+          <h3 className="pb-3">How many minting phases are there?</h3>
+          <p className="xs:text-xl sm:text-2xl font-shark-text answer">
+            We have 3 Phases : OG, WL, Public
+          </p>
+        </div>
+
+        <div className="mb-10">
+          <h3 className="pb-3">How many supply and spots for each phase?</h3>
+          <p className="xs:text-xl sm:text-2xl font-shark-text answer">
+            🦈 Supply : <b className="">1.111 NFTs</b> <br />
+            <b />
+            🎟️ OG Spots : 100 <br />
+            🎫 WL Spots : 300
           </p>
         </div>
 
         <div className="mb-10">
           <h3 className="pb-3">
-            When and where it will be launched ?
+            What is the price and max minting per wallet of NFT for each phase?
           </h3>
           <p className="xs:text-xl sm:text-2xl font-shark-text answer">
-            Starting Date : May 26th, 2024 02:30 pm UTC{" "}<br />
-            OG : 0.15 INJ - May 26th, 2024 02:30 pm UTC until May 26th, 2024 03:00 pm UTC<br />
-            WL : 0.35 INJ - May 26th, 2024 03:00 pm UTC until May 26th, 2024 08:00 pm UTC<br />
-            Public : 0.65 INJ - May 26th, 2024 08:00 pm UTC until Sold Out<br /><br/>
+            🎟️ OG : 0.15 inj (max. 1x per wallet) <br />
+            🎫 WL : 0.35 inj (max. 2x per wallet) <br />
+            🌍 Public : 0.65 inj (Unlimited) <br />
+          </p>
+        </div>
 
+        <div className="mb-10">
+          <h3 className="pb-3">When and where it will be launched ?</h3>
+          <p className="xs:text-xl sm:text-2xl font-shark-text answer">
+            ⌚ Starting Date : Friday, May 26th 2024 <br />
+            🎟️ OG :{" "}
+            <span className="text-[18px]">
+              02:30 pm UTC &mdash; 03:00 pm UTC
+            </span>
+            <br />
+            🎫 WL :
+            <span className="text-[18px]">
+              03:00 pm UTC &mdash; 08:00 pm UTC
+            </span>
+            <br />
+            🌍 Public :
+            <span className="text-[18px]">08:00 pm UTC &mdash; Sold Out</span>
+            <br />
+            <br />
             Launch at{" "}
             <a
               href="https://injective.talis.art/"
@@ -45,6 +83,15 @@ const FAQ = () => {
               Talis.Art
             </a>{" "}
             on the Injective Chain.
+            <br /> <br />
+            <a
+              href="https://injective.talis.art/"
+              target="_blank"
+              rel="noreferrer"
+              className="text-shark-blue hover:underline"
+            >
+              Claim OG🎟️/WL🎫
+            </a>{" "}
           </p>
         </div>
 
