@@ -14,6 +14,7 @@ import Nav from "./components/Nav";
 import Menu from "./components/Mobile/Menu";
 import DesktopLogo from "./components/Desktop/Desktop";
 import DesktopNav from "./components/Desktop/DesktopNav";
+import Partners from "./components/Partners";
 
 const Home: NextPage = () => {
   return (
@@ -46,7 +47,7 @@ const Home: NextPage = () => {
 
           {/* <Intro /> */}
         </div>
-
+ 
         <Intro />
         <TheBasics />
 
@@ -55,7 +56,8 @@ const Home: NextPage = () => {
           <Values />
           <Community />
           <FAQ />
-          <Podcast />
+          <Partners />
+          {/* <Podcast /> */}
         </div>
       </main>
 

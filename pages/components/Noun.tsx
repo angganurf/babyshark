@@ -5,16 +5,16 @@ interface NounProps {
   number: number;
 }
 
-// const twitter: any = {
-//   2: "https://twitter.com/pina_noun",
-//   5: "https://twitter.com/bruce_noun",
-//   15: "https://twitter.com/morpheus_noun",
-//   33: "https://twitter.com/froger_noun",
-//   47: "https://twitter.com/swimshady_noun",
-// };
+const twitter: any = {
+  2: "https://twitter.com/pina_noun",
+  5: "https://twitter.com/bruce_noun",
+  15: "https://twitter.com/morpheus_noun",
+  33: "https://twitter.com/froger_noun",
+  47: "https://twitter.com/swimshady_noun",
+};
 
 const Noun = ({ number }: NounProps) => {
-  // const handle = twitter[number];
+  const handle = twitter[number];
 
   return (
     // <a

@@ -43,7 +43,7 @@ const DesktopNav = () => {
           smooth={true}
           className="cursor-pointer hover:text-shark-blue flex pb-2"
         >
-          Community
+          Team
         </ScrollLink>
 
         <ScrollLink

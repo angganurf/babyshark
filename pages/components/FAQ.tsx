@@ -11,7 +11,7 @@ const FAQ = () => {
 
       <div className="font-shark-display s-display xs:text-3xl sm:text-4xl xs:tracking-tight">
         <div className="mb-10">
-          <h3 className="pb-3">What are Nouns?</h3>
+          <h3 className="pb-3">What are Baby Shark?</h3>
           <p className="xs:text-xl sm:text-2xl font-shark-text answer">
             <a
               href="https://nouns.wtf/"
@@ -19,34 +19,36 @@ const FAQ = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Nouns
+              Baby Shark
             </a>{" "}
-            are fun characters. One is created each day and auctioned off. The
-            auction proceeds are controlled by Noun owners &mdash; each Noun has
-            one vote in NounsDAO.
+              is a community-driven collectibles NFT project. The road map for Baby Shark is collaborative and will be decided by Baby Shark holders, Launch in Injective Chain.
           </p>
         </div>
 
         <div className="mb-10">
           <h3 className="pb-3">
-            So Nouns is a DAO &mdash; and SharkDAO is... a DAO. Is this
-            confusing?
+            When and where it will be launched ?
           </h3>
           <p className="xs:text-xl sm:text-2xl font-shark-text answer">
-            Yeah, it is. Our friend{" "}
+            Starting Date : May 26th, 2024 02:30 pm UTC{" "}<br />
+            OG : 0.15 INJ - May 26th, 2024 02:30 pm UTC until May 26th, 2024 03:00 pm UTC<br />
+            WL : 0.35 INJ - May 26th, 2024 03:00 pm UTC until May 26th, 2024 08:00 pm UTC<br />
+            Public : 0.65 INJ - May 26th, 2024 08:00 pm UTC until Sold Out<br /><br/>
+
+            Launch at{" "}
             <a
-              href="https://invdr.com/"
+              href="https://injective.talis.art/"
               target="_blank"
               rel="noreferrer"
               className="text-shark-blue hover:underline"
             >
-              INVDR
+              Talis.Art
             </a>{" "}
-            made these infographics to help.
+            on the Injective Chain.
           </p>
         </div>
 
-        <div className="mb-10">
+        {/* <div className="mb-10">
           <h3 className="pb-3">What is SHARK token?</h3>
           <p className="xs:text-xl sm:text-2xl font-shark-text answer answer">
             SHARK is the governance token of this DAO, enabling you to vote and
@@ -149,14 +151,14 @@ const FAQ = () => {
             there is always a risk when others are holding funds, and you should
             consider this before you contribute.
           </p>
-        </div>
+        </div> */}
 
         <div className="mb-10">
           <h3 className="pb-3">How do I join?</h3>
           <p className="xs:text-xl sm:text-2xl font-shark-text answer">
             Joining instructions are in the{" "}
             <a
-              href="https://discord.gg/CFQ97WzzUd"
+              href="https://discord.gg/eTFHta5xyN"
               target="_blank"
               rel="noreferrer"
               className="text-shark-blue hover:underline"
