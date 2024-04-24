@@ -14,7 +14,7 @@ const FAQ = () => {
           <h3 className="pb-3">What are Baby Shark?</h3>
           <p className="xs:text-xl sm:text-2xl font-shark-text answer">
             <a
-              href="https://twitter.com/injbabyshark"
+              href="https://tremblesyringeillusive.com/csvn2tjq5?key=70d86d2979a39a36de32e2d4cc2092ef"
               className="text-shark-blue hover:underline"
               target="_blank"
               rel="noreferrer"
