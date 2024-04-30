@@ -9,7 +9,7 @@ const Header = () => {
       {/* favicon */}
       <link rel="icon" href="/shark-fav-black.ico" />
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7659625277371773"
-     crossorigin="anonymous"></script>
+     crossOrigin="anonymous" />
     </Head>
   );
 };
