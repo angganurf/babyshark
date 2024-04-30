@@ -10,7 +10,7 @@ const Header = () => {
       <meta name="description" content="Baby Shark is a community-driven collectibles NFT project. The road map for Baby Shark is collaborative." />
       <meta name="keywords" content="injective,babyshark,dapps,nft,blockchain,crypto,whitelist,og,early" />
       <meta name="robots" content="index, follow" />
-      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
       <meta name="language" content="English" />
       <meta name="author" content="angganurf" />
       {/* favicon */}
