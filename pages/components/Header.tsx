@@ -15,7 +15,7 @@ const Header = () => {
       <meta name="author" content="angganurf" />
       {/* favicon */}
       <link rel="icon" href="/shark-fav-black.ico" />
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7659625277371773"
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2152357308274423"
      crossOrigin="anonymous" />
     </Head>
   );
