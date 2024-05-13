@@ -16,6 +16,7 @@ const Header = () => {
       {/* favicon */}
       <link rel="icon" href="/shark-fav-black.ico" />
       <meta name="monetag" content="803f964903c6821592abb49a8f246714" />
+      <script src="https://alwingulla.com/88/tag.min.js" dataZone="65442" async dataCfasync="false" />
     </Head>
   );
 };
